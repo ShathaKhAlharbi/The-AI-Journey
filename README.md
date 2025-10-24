@@ -147,6 +147,7 @@ This section focuses on **Large Language Models (LLMs)** — understanding how t
 | Course | Platform | Status | Link |
 |--------|-----------|----------|------|
 | Generative AI with Large Language Models | NVIDIA DLI | ✅ Completed | [🔗](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-FX-03+V3) |
+| Building RAG Agents with LLMs | NVIDIA DLI | 🟨 In Progress  | - |
 | From Transformers to Applications | Self Study | ⏳ Planned | — |
 
 #### 🎯 Goals
