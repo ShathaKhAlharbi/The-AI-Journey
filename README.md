@@ -28,13 +28,13 @@ This phase is divided into two main pillars — **Mathematics Foundations** and 
 
 ### 📐 Mathematics Foundations
 
-| Resource | Type | Progress | Link |
+| Course | Type | Progress | Link |
 |-----------|------|-----------|------|
 | Stanford CS230: Deep Learning (Autumn 2025) | Course (Mathematical Intuition) | 🟨 In Progress | [🔗](https://youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X) |
 | MIT Linear Algebra Course | Online Course | 🟨 In Progress | [🔗](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) |
 | The Essence of Calculus | YouTube Course | 🟨 In Progress | [🔗](https://youtu.be/WUvTyaaNkzM?si=xFq0P4prSZdBgjpV) |
 | Calculus | YouTube Course | ⏳ Planned | [🔗](https://youtube.com/playlist?list=PLF797E961509B4EB5) |
-
+|Linear Algebra for Machine Learning and Data Science | Coursera corse | 🟨 In Progress | [My repository](https://github.com/ShathaKhAlharbi/Linear-Algebra-for-Machine-Learning-and-Data-Science/tree/main) |
 #### 🎯 Goals
 - Develop the ability to **translate real-world systems into mathematical models**.  
 - Apply math concepts directly to **AI algorithms, control systems, and signal processing**.
