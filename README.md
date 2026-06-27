@@ -12,7 +12,7 @@ This repository evolves as I do, continuously updated with new skills, discoveri
 - [Phase 1: Building Strong Foundations](#-phase-1-building-strong-foundations)
   - [Mathematics Foundations](#-mathematics-foundations)
   - [Programming Foundations](#-programming-foundations)
-- [Embedded Systems & Electronics](#-embedded-systems--electronics)
+- [Embedded Systems and Electronics](#-embedded-systems-and-electronics)
 - [Robotics](#-robotics)
 - [AI on Microcontrollers](#-ai-on-microcontrollers)
 - [Scientific Research Papers](#-scientific-research-papers)
@@ -49,7 +49,7 @@ This phase is divided into two main pillars — **Mathematics Foundations** and 
 
 ---
 
-## ⚙️ Embedded Systems & Electronics
+## ⚙️ Embedded Systems and Electronics
 
 This section covers the **hardware side of intelligence** — designing, programming, and integrating systems that bring algorithms to life.
 
@@ -58,6 +58,7 @@ This section covers the **hardware side of intelligence** — designing, program
 | Circuit Fundamentals | Voltage, current, Ohm’s law, and circuit analysis | ✅ Completed |
 | Basic Electronics | Diodes, rectifiers, transistors (BJT & MOSFET) | ✅ Completed |
 | Signal Processing | Filtering, FFT, and sensor data interpretation |✅ Completed |
+| Arduino Fundamentals | sensors ,Arduino Circuit Design and Programming |✅ Completed |
 | Microcontroller Architecture | ESP32, Arduino, STM32 basics | 🟨 In Progress |
 | Embedded C & RTOS | Task scheduling and real-time design | 🟨 In Progress |
 | PCB Design | Schematic capture and board layout | 🟨 In Progress |
@@ -113,12 +114,12 @@ Reading and analyzing scientific papers expands understanding beyond tutorials �
 
 This section focuses on **Large Language Models (LLMs)** — understanding how they work, train, and reason.
 
-| Course | Platform | Status | Link |
-|--------|-----------|----------|------|
-|Introduction to Artificial Intelligence |KAUST Academy |  ✅ Completed |-|
-| Generative AI with Large Language Models | NVIDIA DLI | ✅ Completed | [🔗](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-FX-03+V3) |
-| Building RAG Agents with LLMs | NVIDIA DLI | 🟨 In Progress  | - |
-| From Transformers to Applications | Self Study | ⏳ Planned | — |
+| Course | Platform | Status |
+|--------|-----------|----------|
+|Introduction to Artificial Intelligence |KAUST Academy |  ✅ Completed |
+| Building Transformer-Based Natural Language Processing Applications | NVIDIA DLI | ✅ Completed |
+| Building RAG Agents with LLMs | NVIDIA DLI | 🟨 In Progress  |
+
 
 
 
