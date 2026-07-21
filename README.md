@@ -117,9 +117,9 @@ This section focuses on **Large Language Models (LLMs)** — understanding how t
 | Course | Platform | Status |
 |--------|-----------|----------|
 |Introduction to Artificial Intelligence |KAUST Academy |  ✅ Completed |
-| Building Transformer-Based Natural Language Processing Applications | NVIDIA DLI | ✅ Completed |
-| Building RAG Agents with LLMs | NVIDIA DLI | 🟨 In Progress  |
-
+|Building Transformer-Based Natural Language Processing Applications | NVIDIA DLI | ✅ Completed |
+|Building RAG Agents with LLMs | NVIDIA DLI | 🟨 In Progress  |
+|Function-calling and data extraction with LLMs | Deeplearning.Ai | ✅ Completed |
 
 
 
